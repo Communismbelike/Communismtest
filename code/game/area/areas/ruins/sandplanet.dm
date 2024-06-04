@@ -1,6 +1,6 @@
 //Your ruin here!
 
-//whitesands surface camp saloon
+//whitesands surface camp saloon suns
 
 /area/ruin/whitesands/saloon
 	name = "Hermit Saloon"

